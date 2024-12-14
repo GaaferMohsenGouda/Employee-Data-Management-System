@@ -3,14 +3,19 @@ Key Features of this program
 1-Add Employee
 - Enter details like ID, Name, Position, Salary, and Email.
 - Save data to a CSV file for persistence.
+
 2-Update Employee:
 - Modify specific fields without affecting others.
+
 3-Delete Employee:
 - Remove an employee by ID and update the CSV file.
+
 4-Search Employee:
 - Find employee details using a unique ID.
+
 5-List All Employees:
 - Display all employee records clearly.
+
 6-File Handling:
 - Use the csv module to store and retrieve data.
   
